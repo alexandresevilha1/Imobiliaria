@@ -1,0 +1,155 @@
+body {
+    margin: 0;
+    font-family: Tahoma;
+}
+
+.secao {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+}
+
+p {
+    margin: 10px auto;
+    width: 980px;
+    text-align: justify;
+}
+
+#secao-logo{
+    background-color: #afddfb;
+}
+
+#secao-logo img{
+    width: 150px;
+}
+
+#secao-logo p{
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 25px ;
+}
+
+#secao-logo a{
+    font-size: 18px;
+    color: #1d1d1d;
+    border-bottom: 2px solid #1d1d1d;
+    text-decoration: none;
+    margin: 0px 10px 0px 10px;
+}
+
+#secao-banner img{
+    margin-top: 50px;
+    padding-top: 0px;
+}
+
+span{
+    font-weight: bold;
+}
+
+#secao-conteudo h1{
+    color: #1d1d1d;
+    margin-bottom: 5px;
+}
+
+#secao-conteudo h2{
+    color: #1c81c0;
+    margin-top: 0px;
+    font-weight: normal;
+}
+
+#secao-conteudo img{
+    width: 450px;
+}
+
+#secao-conteudo span{
+    color: #1d80c1;
+}
+
+#secao-servicos{
+    background-color: #1d80c1;
+}
+
+#secao-servicos h3{
+    color: #ffffff;
+    font-size: 28px;
+    line-height: 42px;
+}
+
+#secao-servicos p{
+    color: #ffffff;
+    line-height: 42px;
+    font-size: 22px;
+    text-align: center;
+    width: 700px;
+}
+
+.texto-amarelo{
+    color: #fff81b;
+}
+
+#secao-servicos ul{
+    margin-top: 40px;
+    margin-right: auto;
+    margin-bottom: 40px;
+    margin-left: auto;
+    width: 135px;
+}
+
+#secao-servicos ul li{
+    color: #ffffff;
+    line-height: 42px;
+    text-align: left;
+    font-size: 22px;
+}
+
+#secao-corretores h3{
+    color: #1c81c0;
+    font-size: 28px;
+    line-height: 42px;
+}
+
+#secao-corretores img{
+    width: 450px;
+}
+
+#secao-corretores span{
+    color: #1d80c1;
+}
+
+#secao-contatos {
+    background-color: #1d80c1;
+}
+
+#secao-contatos h3{
+    color: #ffffff;
+    font-size: 28px;
+    line-height: 42px;
+}
+
+#secao-contatos p{
+    color: #ffffff;
+    padding: 15px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+#secao-contatos ul{
+    margin-top: 40px;
+    margin-right: auto;
+    margin-bottom: 40px;
+    margin-left: auto;
+    width: 210px;
+}
+
+#secao-contatos ul li{
+    margin-top: 15px;
+    text-align: center;
+    font-size: 18px;
+}
+
+#secao-contatos ul li a{
+    background-color: #ffffff;
+    color:#1d80c1;
+    padding: 2px 5px;
+    border-radius: 5px;
+}
